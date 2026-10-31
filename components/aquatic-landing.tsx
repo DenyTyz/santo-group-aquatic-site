@@ -876,7 +876,7 @@ export function AquaticLanding() {
             </a>
           </div>
           <div className="footer-bottom">
-            <span>© {new Date().getFullYear()} Supplier Ikan Hias Santo Group</span>
+            <span>© {new Date().getFullYear()} Supplier Ikan Hias Santo Group. Hak cipta dilindungi.</span>
             <span>Batangsaren, Kauman · Buka 24 jam</span>
           </div>
         </div>
